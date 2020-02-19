@@ -1,0 +1,17 @@
+Remove Pin=SB2-1 From Net=T_SWO
+Remove Pin=U1-15 From Net=T_JTCK
+Remove Pin=U1-16 From Net=T_JTDO
+Remove Pin=U1-17 From Net=T_JTDI
+Remove Pin=U1-18 From Net=T_NRST
+Remove Pin=U1-26 From Net=T_JTCK
+Remove Pin=U1-30 From Net=LED_STLINK
+Remove Pin=U1-31 From Net=T_SWO
+Remove Pin=U1-32 From Net=USB_DM
+Remove Pin=U1-33 From Net=USB_DP
+Remove Pin=U1-34 From Net=STM_JTMS
+Remove Pin=U1-37 From Net=STM_JTCK
+Remove Pin=U1-38 From Net=USB_RENUMn
+Change Component Footprint: Designator=CN1 Old Footprint=1*6P New Footprint=USB-MINI-B-SMD
+Change Component Footprint: Designator=U1 Old Footprint=QFP48 7X7 New Footprint=SOT-23-5L
+Change Component Footprint: Designator=CN4 Old Footprint=SIP2/2.54 New Footprint=1*6P
+Change Component Footprint: Designator=U2 Old Footprint=SOT-23-5L New Footprint=QFP48 7X7
